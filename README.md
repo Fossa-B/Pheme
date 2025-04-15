@@ -63,4 +63,4 @@ La app está dirigida a:
 - **Nombre de la app**: *Pheme*  
 - **Significado**: Inspirada en la diosa griega de los rumores y las noticias, representa la velocidad con la que se propaga la información y la necesidad de discernir entre lo verdadero y lo falso.  
 - **Tono de marca**: Informativo, confiable, moderno.  
-- **Estilo visual**: Minimalista, elegante, con paleta neutra (grises, azules profundos, toques dorados), íconos intuitivos y navegación fluida que prioriza la experiencia de lectura.
+- **Estilo visual**: Minimalista, con paleta neutra (grises, azules profundos, toques dorados), íconos intuitivos y navegación fluida que prioriza la experiencia de lectura.
