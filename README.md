@@ -2,7 +2,7 @@
 
 ##  Temática de la App
 
-El objetivo de nuestro proyecto es desarrollar una aplicación moderna de agregación de noticias llamada **Pheme**, que actúe como un puente entre el usuario y la información más relevante, confiable y actual. Inspirada en la diosa griega de los rumores, **Pheme** busca canalizar el flujo constante de noticias globales de manera organizada, clara y personalizada.
+El objetivo del proyecto es desarrollar una aplicación moderna de agregación de noticias llamada **Pheme**, que actúe como un puente entre el usuario y la información más relevante, confiable y actual. Inspirada en la diosa griega de los rumores, **Pheme** busca canalizar el flujo constante de noticias globales de manera organizada, clara y personalizada.
 
 La app permitirá a los usuarios descubrir, seguir y filtrar noticias de múltiples fuentes, clasificándolas por temas de interés, veracidad y popularidad en tiempo real. La propuesta está pensada para combatir la desinformación, potenciar el pensamiento crítico y facilitar el acceso a contenido relevante y contrastado.
 
